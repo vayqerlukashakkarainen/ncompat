@@ -1,0 +1,7 @@
+{
+	"name": "comprehensive-test",
+	"version": "1.0.0",
+	"dependencies": {
+		"@typescript-eslint/eslint-plugin": "8.40.0"
+	}
+}
