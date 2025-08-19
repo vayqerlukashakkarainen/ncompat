@@ -1,4 +1,4 @@
-# npm-node-updater
+# ncompat
 
 A CLI tool that scans a package.json file and checks each package's compatibility with a target Node.js version, recommending the highest supported version for each package.
 

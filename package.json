@@ -1,5 +1,5 @@
 {
-	"name": "npm-node-updater",
+	"name": "ncompat",
 	"version": "1.0.0",
 	"description": "CLI tool to check package compatibility with target Node.js versions",
 	"main": "index.js",
