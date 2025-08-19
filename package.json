@@ -4,7 +4,7 @@
 	"description": "CLI tool to check package compatibility with target Node.js versions",
 	"main": "index.js",
 	"bin": {
-		"npm-node-updater": "./bin/cli.js"
+		"ncompat": "./bin/cli.js"
 	},
 	"scripts": {
 		"start": "node bin/cli.js"
@@ -15,7 +15,7 @@
 		"compatibility",
 		"cli"
 	],
-	"author": "",
+	"author": "Lukas Hakkarainen",
 	"license": "MIT",
 	"dependencies": {
 		"commander": "^11.0.0",
